@@ -24,12 +24,8 @@ def get_driver():
 
 def clean_text(text):
 
-    return float(text.split(": ")[1])
+    pass
 
-def generate_file_name():
-    x = datetime.datetime.now()
-
-    return x.strftime("%Y-%m-%d.%H:%M:%S") + ".txt"
 
 
 def main():
@@ -38,12 +34,6 @@ def main():
     time.sleep(2)
     val = driver.find_element(by="xpath", value="/html/body/div[1]/div/h1[2]")
 
-    while True:
-
-        f = open(f"Dyn_Val_Storage/{generate_file_name()}", "w")
-        f.write(str(clean_text(val.text)))
-        f.close()
-        time.sleep(2)
-
+    return val.text
 
 main()
