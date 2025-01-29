@@ -1,0 +1,7 @@
+User gives the job title and the location 
+
+Server goes through seek and indeed job listing while clicking on each 
+and collect that data to a dictionary and feed that to an LLM
+
+The LLM summarizes the information and refine the ad and show it on the user interface
+

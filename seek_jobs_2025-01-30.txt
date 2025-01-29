@@ -1,0 +1,124 @@
+Title: Junior Software Developer
+Advertiser: Agilent Technologies
+Work Type: Full time
+Description: Position Overview: We are seeking a motivated and talented Graduate Software Engineer to join our Digital Enablement Team. The successful candidate will have the opportunity to engineer custom software solutions through all stages of development, including gathering requirements, implementation and development, documentation and scheduling maintenance.
+Responsibilities:
+Develop software components from design specifications.
+Use toolkits to design user-friendly front-end interfaces.
+Write back-end APIs to perform specific tasks.
+Participate in and contribute to code reviews.
+Preferred Qualifications:
+• Relevant degree in Computer Science, Software Engineering, or a related field.
+• Problem-solving skills and attention to detail.
+• A keen interest in learning new programming languages and technologies.
+• Any level of experience with React JS, jQuery, Angular JS, or other JavaScript Framework.
+• Any level of experience with CSS and HTML.
+• Any level of experience with PHP, SQL, or Node JS.
+• Familiarity with git (or any other version control system).
+• Enthusiasm for creating custom solutions to new problems.
+What We Offer:
+• A supportive and collaborative work environment.
+• Opportunities for professional growth and development.
+• Exposure to a variety of projects and technologies.
+• Competitive salary and benefits package.
+• Flexible working hours and remote work options.
+ 
+--------------------------------------------------
+Title: Junior Software Developer
+Advertiser: Agilent Technologies
+Work Type: Full time
+Description: Position Overview: We are seeking a motivated and talented Graduate Software Engineer to join our Digital Enablement Team. The successful candidate will have the opportunity to engineer custom software solutions through all stages of development, including gathering requirements, implementation and development, documentation and scheduling maintenance.
+Responsibilities:
+Develop software components from design specifications.
+Use toolkits to design user-friendly front-end interfaces.
+Write back-end APIs to perform specific tasks.
+Participate in and contribute to code reviews.
+Preferred Qualifications:
+• Relevant degree in Computer Science, Software Engineering, or a related field.
+• Problem-solving skills and attention to detail.
+• A keen interest in learning new programming languages and technologies.
+• Any level of experience with React JS, jQuery, Angular JS, or other JavaScript Framework.
+• Any level of experience with CSS and HTML.
+• Any level of experience with PHP, SQL, or Node JS.
+• Familiarity with git (or any other version control system).
+• Enthusiasm for creating custom solutions to new problems.
+What We Offer:
+• A supportive and collaborative work environment.
+• Opportunities for professional growth and development.
+• Exposure to a variety of projects and technologies.
+• Competitive salary and benefits package.
+• Flexible working hours and remote work options.
+ 
+--------------------------------------------------
+Title: Junior Software Developer
+Advertiser: Agilent Technologies
+Work Type: Full time
+Description: Position Overview: We are seeking a motivated and talented Graduate Software Engineer to join our Digital Enablement Team. The successful candidate will have the opportunity to engineer custom software solutions through all stages of development, including gathering requirements, implementation and development, documentation and scheduling maintenance.
+Responsibilities:
+Develop software components from design specifications.
+Use toolkits to design user-friendly front-end interfaces.
+Write back-end APIs to perform specific tasks.
+Participate in and contribute to code reviews.
+Preferred Qualifications:
+• Relevant degree in Computer Science, Software Engineering, or a related field.
+• Problem-solving skills and attention to detail.
+• A keen interest in learning new programming languages and technologies.
+• Any level of experience with React JS, jQuery, Angular JS, or other JavaScript Framework.
+• Any level of experience with CSS and HTML.
+• Any level of experience with PHP, SQL, or Node JS.
+• Familiarity with git (or any other version control system).
+• Enthusiasm for creating custom solutions to new problems.
+What We Offer:
+• A supportive and collaborative work environment.
+• Opportunities for professional growth and development.
+• Exposure to a variety of projects and technologies.
+• Competitive salary and benefits package.
+• Flexible working hours and remote work options.
+ 
+--------------------------------------------------
+Title: Software Engineer
+Advertiser: VOG Business Solutions Pty Ltd
+Work Type: Full time
+Description:  Job description
+VOG BUSINESS SOLUTIONS PTY LTD located at 477 Bridge Road, Richmond 3121.
+We are looking for an individual who can create, develop, test, maintain, and document program code in line with user requirements, as well as system and technical specifications.
+Software Engineer's Tasks include:
+1. Investigating, advising, assessing, and determining the requirements of system programs.
+2. Recognizing technological constraints and shortcomings in current systems and their related processes, procedures, and methodologies.
+3. Evaluating, troubleshooting, diagnosing, and rectifying errors and issues in application programming languages, adhering to established testing protocols, guidelines, and quality standards to ensure programs and applications, including technical security measures, function as intended.
+4. Composing and sustaining program code to align with system requirements, designs, and technical specifications in compliance with quality accredited standards.
+5. Creating, revising, and maintaining technical documentation for programs, end-users, and operational procedures. 6. Offering insights, recommendations, and expertise in formulating proposals and strategies for software design activities, including financial assessments and cost analyses for suggesting software acquisitions and upgrades. 7. Overseeing testing and automation processes for software and application deployments.
+8. Gathering and interpreting operational metrics.
+9. Developing strategies for continuous improvement and delivery within system design and software development. 10. Creating and enhancing the tools necessary to support software management and security.
+11. Conducting forensic analysis to detect anomalies or threats.
+12. Executing encryption and decryption processes.
+13. Identifying and mitigating risks that may impact performance and security throughout the product's lifecycle
+Qualification:
+Bachelor's Degree in a relevant field
+Minimum of 2 years of experience in relevant field
+Job Type: Full Time
+Schedule: 8-hour shift
+--------------------------------------------------
+Title: Software Engineer
+Advertiser: VOG Business Solutions Pty Ltd
+Work Type: Full time
+Description:  Job description
+VOG BUSINESS SOLUTIONS PTY LTD located at 477 Bridge Road, Richmond 3121.
+We are looking for an individual who can create, develop, test, maintain, and document program code in line with user requirements, as well as system and technical specifications.
+Software Engineer's Tasks include:
+1. Investigating, advising, assessing, and determining the requirements of system programs.
+2. Recognizing technological constraints and shortcomings in current systems and their related processes, procedures, and methodologies.
+3. Evaluating, troubleshooting, diagnosing, and rectifying errors and issues in application programming languages, adhering to established testing protocols, guidelines, and quality standards to ensure programs and applications, including technical security measures, function as intended.
+4. Composing and sustaining program code to align with system requirements, designs, and technical specifications in compliance with quality accredited standards.
+5. Creating, revising, and maintaining technical documentation for programs, end-users, and operational procedures. 6. Offering insights, recommendations, and expertise in formulating proposals and strategies for software design activities, including financial assessments and cost analyses for suggesting software acquisitions and upgrades. 7. Overseeing testing and automation processes for software and application deployments.
+8. Gathering and interpreting operational metrics.
+9. Developing strategies for continuous improvement and delivery within system design and software development. 10. Creating and enhancing the tools necessary to support software management and security.
+11. Conducting forensic analysis to detect anomalies or threats.
+12. Executing encryption and decryption processes.
+13. Identifying and mitigating risks that may impact performance and security throughout the product's lifecycle
+Qualification:
+Bachelor's Degree in a relevant field
+Minimum of 2 years of experience in relevant field
+Job Type: Full Time
+Schedule: 8-hour shift
+--------------------------------------------------
