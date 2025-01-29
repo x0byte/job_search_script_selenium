@@ -16,7 +16,7 @@ def get_driver(url):
     options.add_argument("no-sandbox")
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_argument("disable-blink-features=AutomationControlled")
-
+    
 
     driver = webdriver.Chrome(service=service, options=options)
     driver.get(url)

@@ -1,3 +1,49 @@
+Title: Senior Software Engineer - Cloud Operations
+Advertiser: SEEK Limited
+Work Type: Full time
+Description: Company Description
+The SEEK Group 
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation. 
+Find out more about us by visiting https://www.seek.com.au/about/. 
+‘Our Seek’ Principles 
+Purpose 
+We help people live more fulfilling and productive working lives and help organisations succeed. 
+Principles 
+Passion: We are passionate about our purpose, our customers and the community.
+Team: We care about each other and collaborate to achieve together.
+Delivery: We execute with excellence and achieve great results.
+Future: We think and act for the long-term.
+Job Description
+Join SEEK’s newly created team within the broader Cloud Operations function. Play a key role in optimising our cloud platforms while supporting internal teams with scalable, cutting-edge solutions. Working in a large-scale AWS environment, this role offers the opportunity to drive impactful change at scale, ensuring compliance, cost management, and robust governance.
+You’ll focus on building tools and systems that benefit the entire organisation, from creating provisioning environments to supporting critical infrastructure projects like centralised backups, notification systems, and tagging strategies. This is a chance to blend technical expertise with stakeholder collaboration, shaping SEEK’s cloud operations for the future.
+Key Responsibilities
+Build and enhance tools for AWS authentication, account creation, and large-scale changes.
+Drive the development of a rules engine and support infrastructure projects.
+Ensure compliance with governance and regulatory standards across AWS environments.
+Optimise cloud platform performance, focusing on cost management and scalability.
+Collaborate with stakeholders across the organisation to deliver tailored solutions.
+This is your opportunity to work in a highly visible role with a direct impact on SEEK’s operational efficiency and scalability.
+Qualifications
+Extensive experience working with AWS and managing large-scale environments.
+Strong software engineering background, with expertise in CDK, TypeScript, and AWS.
+Proficiency in tools like GitHub, CI/CD pipelines (Buildkite preferred), Python, and Kubernetes.
+Proven ability to manage multiple projects and deliver impactful solutions.
+Exceptional stakeholder engagement and communication skills.
+Proactive, resourceful, and able to drive innovation in a dynamic environment.
+Additional Information
+At SEEK we offer:
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Frequent events including sports days, annual Christmas party, hackathon, and trivia
+Free kick-start breakfast every morning and fresh fruit available all day in our offices
+Casual dress – every day.
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+For this role, only those candidates with the eligible right to work will be considered.
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees.
+--------------------------------------------------
 Title: Junior Software Developer
 Advertiser: Agilent Technologies
 Work Type: Full time
