@@ -3,6 +3,9 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import time
 import datetime
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 # Path to ChromeDriver
 service = Service('/home/hirun/Downloads/chromedriver-linux64/chromedriver')
@@ -26,13 +29,15 @@ def get_from_seek(keyword, location):
 
     url = f"https://www.seek.com.au/{processed_keyword}-jobs/in-{processed_location}"
     driver = get_driver(url)
+
     time.sleep(5)  
+    
     filename = f"seek_jobs_{datetime.date.today().strftime('%Y-%m-%d')}.txt"
     with open(filename, "a", encoding="utf-8") as f:
 
         # Get all job links dynamically every time
         job_links = []
-        job_cards = driver.find_elements(By.XPATH, "//article[contains(@data-automation, 'normalJob')]//a[contains(@href, '/job/')]")
+        job_cards = driver.find_elements(By.XPATH, "//article[contains(@data-automation, 'normalJob')]//a[@data-automation='jobTitle']")
 
         for job_card in job_cards:
             try:
@@ -41,6 +46,9 @@ def get_from_seek(keyword, location):
                 continue
 
         print(f"Found {len(job_links)} job listings.")
+
+        #removing duplicates
+        job_links = list(set(job_links))
 
         for job_url in job_links[:5]:  # Scraping the first 5 jobs
             try:
