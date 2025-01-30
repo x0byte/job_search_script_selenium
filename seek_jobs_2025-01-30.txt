@@ -1,0 +1,173 @@
+Title: Graduate developer
+Advertiser: Sagecool
+Work Type: Full time
+Description: Job Ad: Graduate Developer
+Are you a recent graduate or someone with a passion for technology, eager to kickstart your career in software development? Do you have a hunger for learning and the drive to tackle new challenges? If so, we want to hear from you!
+Who We Are 
+Sagecool is an Australian start up company in its third year. We are developing an Online Education platform which is a completely open architecture platform available to all students, teachers and schools. It facilitates the teaching of the Year 11 and Year 12 curriculum for every Australian state and will provide access to quality teachers to every student regardless of location or socio economic status.
+
+
+ What You’ll Be Doing As our second tech hire, you will:
+Collaborate closely with our lead developer and contribute to shaping our technical direction.
+Gain hands-on experience with technologies like Ruby, Rails, TypeScript, and React.
+Work on building and maintaining core systems and applications.
+Participate in brainstorming sessions, problem-solving, and solution design.
+Play a key role in our early-stage growth by contributing to both development and the overall product vision.
+What We’re Looking For We don’t expect you to be an expert, but we’re looking for someone with the drive to learn and grow in these areas:
+Ruby & Rails: Building robust backend systems and APIs.
+TypeScript & React: Creating dynamic, responsive front-end interfaces.
+You should have:
+A proactive and self-driven attitude.
+Persistence and resilience when tackling challenges.
+Strong communication and collaboration skills.
+Some coding knowledge or project experience in any language (university or personal projects count!).
+A passion for startups and a willingness to wear multiple hats when needed.
+A portfolio of work, such as a GitHub, GitLab, personal projects, or open-source contributions, that showcases your interest and experience in coding.
+
+
+ 
+
+ What We Offer
+A chance to be part of an early-stage startup with significant influence on our direction.
+One-on-one mentorship from our lead developer.
+A fast-paced, collaborative environment where your contributions matter.
+Opportunities to learn and grow with the company.
+Competitive salary: circa $80,000.
+How to Apply If you’re excited about this opportunity, please send your CV, a link to your GitHub, GitLab, or portfolio, and a short cover letter. In your cover letter, tell us about a project you’ve worked on (personal, academic, or otherwise) and what you learned from it.
+Join us in building something amazing from the ground up!
+
+
+ 
+--------------------------------------------------
+Title: Software Engineer
+Advertiser: BPC Technology
+Work Type: Full time
+Description: About Us
+BPC Tech is a leading Australian retailer and service provider specialising in computers, components, and IT solutions. With a strong commitment to delivering high-quality and affordable technology, we support businesses and individuals across the country.
+Position Overview
+We are seeking a skilled and motivated Software Engineer to join our dynamic team. The role will focus on designing, developing, and maintaining software solutions that enhance our e-commerce platform, optimise internal systems, and improve user experience.
+Key Responsibilities
+Collaborate with project stakeholders to define software requirements and provide technical recommendations.
+Design, develop, and implement software modules and systems to meet project specifications.
+Conduct code testing, debugging, and performance optimization to ensure reliable and efficient software.
+Provide ongoing maintenance, updates, and improvements for existing software systems.
+Create and maintain technical documentation for software designs and implementations.
+Assist in the integration of third-party tools and APIs to enhance system functionality.
+Provide technical support and troubleshooting for internal and external users.
+Work closely with hardware teams to ensure seamless system integration.
+Qualifications
+Bachelor’s degree in Computer Science, Software Engineering, or related field.
+Proven experience as a Software Engineer, preferably in e-commerce or IT service industries.
+Proficiency in programming languages such as Java, Python, or C#.
+Strong knowledge of web development frameworks, databases, and APIs.
+Familiarity with testing and debugging tools.
+Excellent problem-solving skills and attention to detail.
+Ability to work collaboratively in a team environment and communicate technical concepts effectively.
+Preferred Skills
+Experience with CRM, ERP, or other enterprise-level software systems.
+Knowledge of cloud computing platforms (e.g., AWS, Azure).
+Understanding of front-end technologies such as HTML, CSS, and JavaScript.
+Experience with version control systems (e.g., Git).
+What We Offer
+Competitive salary package.
+Opportunities for professional growth and development.
+A collaborative and innovative work environment.
+Employee discounts on products and services.
+--------------------------------------------------
+Title: Software Developer
+Advertiser: Verra Mobility
+Work Type: Full time
+Description: Verra Mobility is a global leader in smart mobility. We develop technology-driven solutions to make transportation safer and more convenient worldwide. We work with police departments and municipalities across North America, the Asia Pacific and Europe to install safety cameras, including red-light, speed, and school bus stop arm cameras. We manage tolling transactions and violations for the world's largest commercial fleets and rental car companies, serving over 8.5 million vehicles whilst, via our proprietary connected systems, are processing nearly 165 million transactions each year for more than 50 tolling authorities.
+
+Our values
+
+Verra Mobility is a vibrant and rapidly expanding company that places people at the heart of everything we do. We wholeheartedly embrace our core values: Do What's Right, Lead with Grace, Win Together, and Own It in our every interaction with our customers and dedicated team members.
+
+To support our business as we look forward and drive innovation throughout our market leading technical solutions, we look to engage a committed, full time, Software Developer to work alongside our talented teams globally and at National Head Office, South Melbourne.
+
+This is a permanent, full time and hybrid role, working from home and the office.
+
+The role:
+
+Join us on the forefront of innovation! As a Software Developer at Verra Mobility, you'll craft cutting-edge components for our global flagship road safety software. We're seeking tech enthusiasts with strong troubleshooting skills and a knack for agile collaboration. Contribute to our team's success, adhere to best practices, and elevate our processes and standards. Shape the future of road safety by developing solutions that help save lives.
+
+As a Developer at Verra Mobility you will work on:
+Software Development: Design, develop, and meticulously unit test high-quality software components using React, Node.js or Java to build robust and scalable applications. Build scalable SaaS solutions using AWS Lambda.
+Troubleshooting and Issue Resolution: Perform troubleshooting, implement fixes for identified issues, and analyze technical problems to ensure the delivered components meet business needs.
+Adherence to Secure Coding Practices: Apply secure coding practices and processes, ensuring the ongoing security and robustness of the solution.
+Collaborative Development: Collaborate with cross-functional teams to understand requirements and implement solutions, participating in peer-reviews of solution and component designs.
+Continuous Improvement: Participate in code reviews, Agile estimations, planning, daily ceremonies, and retrospectives to drive continuous improvement in both team and personal performance.
+Alignment with Architectural Design: Ensure that delivered components align with approved architectural design and patterns, contributing to software process improvements.
+Who are you?
+
+As an experienced Developer with a preferred degree in Computer Science and over 3 years of web application programming, you'll showcase expertise in React, Node.js or Java, and AWS technologies, specifically AWS Lambda functions. Proficient in Jira or Azure DevOps, you bring a solid background in Agile/Scrum practices. Your problem-solving skills, attention to detail, effective communication, adaptability, and collaborative mindset make you an ideal fit. Enjoy career development, training, and a supportive team environment.
+
+To apply, click below, submitting your resume and a cover letter detailing your suitability for the role. We look forward to your application!
+
+We value the unique backgrounds, experiences, and contributions that each person brings to our community and encourage and celebrate diversity. First Nations people, those identifying as LGBTQIA+, females, people of all ages, with disabilities and culturally and linguistically diverse people are encouraged to apply. Our aim is to create a workforce that reflects the community in which we live.
+--------------------------------------------------
+Title: Software Engineer
+Advertiser: LAGRANGE.AI PTY LTD
+Work Type: Full time
+Description: Our technology company specializes in advanced supply chain analytics, helping businesses optimize their operations through sophisticated, data-driven solutions. Our platform integrates state-of-the-art technologies to provide actionable insights and predictive analytics for supply chain optimization.
+We are seeking a passionate Software Engineer to join our innovative team at Lagrange AI. In this role, you will develop advanced software solutions that leverage AI, simulation, and optimization to enhance supply chain operations. You will collaborate closely with cross-functional teams to build and improve our platform, ensuring it meets the evolving needs of our clients.
+ Key Responsibilities:
+ Product Development: Design, develop, and enhance features of our AI-driven supply chain platform, focusing on integrated, intelligent, and assisted supply chain functionalities.
+Collaboration: Work with product managers and data scientists to understand user requirements and translate them into robust software solutions that facilitate supply chain data integration and analytics.
+Code Quality: Conduct code reviews and implement best practices to ensure maintainable and efficient code, particularly for real-time data processing and visualization dashboards.
+Documentation: Create and maintain documentation for software architecture, APIs, and user interfaces, supporting both internal teams and end users.
+Troubleshooting: Identify and resolve software bugs and performance bottlenecks, ensuring a seamless user experience.
+Continuous Improvement: Stay updated on industry trends and emerging technologies to enhance our platform's capabilities and user engagement.
+Agile Methodologies: Participate in Agile ceremonies and contribute to the iterative development process, ensuring timely delivery of high-quality features.
+ Appropriate candidate must have the following skills, education, and experience:
+ Education: Bachelor Degree or Advanced Diploma or Diploma in related field OR
+Australian Experience: At least 3 + years of Australian Experience OR
+Overseas Experience: At least 3+ years of Overseas Experience
+Specialist: Software Engineer
+Work Rights: Australian Citizen or Permanent Resident or Full Work Rights Holder
+ Australian Citizens and Permanent Residents will be preferred. Other applicants with full work rights can apply only if they meet the above criteria.
+ How to Apply
+Please submit your resume, a cover letter detailing your technical leadership experience, and any relevant portfolio materials to info@lagrange.ai.
+Lagrange.AI is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+--------------------------------------------------
+Title: Software Engineer
+Advertiser: Mills Oakley
+Work Type: Full time
+Description: About Us
+Mills Oakley is a leading national law firm with a proud history spanning over 160 years. In that time, we’ve grown into a Top 10 Australian law firm by size while remaining true to our shared vision of exceptional client service with a friendly and collaborative ethos. Mutual trust and respect are at the heart of everything we do.
+The Role
+We are looking for a skilled Software Engineer with expertise in .NET, Python, JavaScript, Azure Cloud Services, SharePoint Framework, and SQL Databases.
+As part of our team, you will be responsible for developing and maintaining innovative, scalable, and high-performance software applications. 
+Who We Are Looking For
+Programming Expertise: Strong experience in .NET (C#), Python, and JavaScript (ES6+), with proficiency in object-oriented programming, OWAPS Top 10 and design patterns.
+Cloud Technologies: Hands-on experience with Azure Cloud Services, including Azure App Services, Azure Functions, and Azure SQL Database.
+SharePoint Development: Proven experience developing solutions using the SharePoint Framework (SPFx) and integrating them with SharePoint Online and On-Premise.
+API & JSON: Experience designing and consuming RESTful APIs using JSON for data interchange between systems.
+Version Control: Proficiency in using Git and version control tools for collaborative development in a team environment.
+Testing and Debugging: Knowledge of unit testing frameworks and tools (e.g., NUnit, Moq) for .NET, JavaScript, and Python applications.
+Exceptional customer service skills; and
+Strong technical, analytical and problem-solving skills. 
+Preferred Qualifications
+Cloud Certifications: Azure Developer (AZ-204) or other relevant cloud certifications are a plus.
+Frontend Frameworks: Experience with modern JavaScript frameworks (e.g., React, Angular) is a bonus.
+DevOps & CI/CD: Experience with DevOps pipelines, continuous integration, and deployment processes (e.g., Azure DevOps).
+Communication: Strong written and verbal communication skills, with the ability to explain complex technical concepts to non-technical stakeholders.
+Continuous Learner: Committed to staying up-to-date with the latest technologies and best practices in software development.
+ Minimum Candidate Experience
+Minimum two years experience with Lexis Nexis/Dye Durham Affinity
+Minimum two years experience with NetDocuments
+
+What We Offer
+We take a collaborative approach to your learning & development, giving you the personal attention and unique opportunities required to help you realise your full potential. We are committed to your health and well-being and offer a multitude of employee benefits including:
+Flexible working;
+Dress for your day;
+Discounted health insurance;
+Employee Assistance Program;
+Discounts to gyms and studios across Australia;
+Study and exam leave;
+Competitive referral bonus; and
+Other amazing perks!
+Apply
+All applications must include a CV and Cover Letter addressed to the Talent Acquisition team and submitted online via our Careers page.
+Please note applications from agencies will not be accepted at this stage.
+--------------------------------------------------
