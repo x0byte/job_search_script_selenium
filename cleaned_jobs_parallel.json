@@ -1,0 +1,157 @@
+[
+  {
+    "Title": "First Level Support",
+    "Advertiser": "Vela APX",
+    "Work Type": "Full time",
+    "Cleaned Description": "This is a full-time position offering an opportunity to contribute to the quality and success of products in a tech-forward development environment.",
+    "Key Responsibilities": [
+      "Resolve simple and complex problems reported.",
+      "Troubleshoot, debug, and rectify defects in a mission-critical application.",
+      "Propose solutions to functional requirements for product enhancements.",
+      "Review the work of peers and provide feedback for continuous improvement."
+    ],
+    "Required Skills": [
+      "Bachelor’s degree or equivalent experience in Computer Science, Engineering, Information Systems or related discipline.",
+      ".NET Framework C# and SQL Server programming, troubleshooting and testing skills, 1-2 years commercial experience",
+      "Strong data modelling and relational database design skills (SQL Server)",
+      "Experience working within support teams to help drive the best customer experience possible",
+      "Quality focused",
+      "A real team player with strong interpersonal and communication skills"
+    ],
+    "Additional Skills (Optional)": [
+      "Experience in healthcare would be highly regarded",
+      "Familiarity with clinical software, quality methodologies (waterfall and agile) and project management experience would be well regarded"
+    ],
+    "Company Information": {
+      "Description": "Vela APX offers a comprehensive suite of clinical software solutions that revolutionize maternity care.",
+      "Mission": "Become the unparalleled partner in Australia’s Maternity and Newborn sector, providing software and solutions that clinicians love.",
+      "Benefits": [
+        "Thrilling avenues for professional growth and career advancement.",
+        "Flexible, autonomous work environment",
+        "Employee stock ownership programs."
+      ],
+      "Note": "Please note you must be eligible to work in Australia to be considered for this role."
+    }
+  },
+  {
+    "Title": "Software Engineer",
+    "Advertiser": "Kinexus",
+    "Work Type": "Full time",
+    "Cleaned Description": "Job opportunity for a Software Engineer in Melbourne, VIC. Role involves executing and maintaining software best practices, coding, configuring, testing software solutions using C++ and other tools, providing requirements analysis and management, and leading engineers on assigned projects.",
+    "Key Responsibilities": [
+      "Execute and maintain software best practices",
+      "Coding, configuring, and testing software solutions in line with the software design",
+      "Maintain current knowledge of and execute continuous integration/delivery methodologies",
+      "Software programming utilising C++ and other software programs and platforms",
+      "Provide requirements analysis and management with the use of software management tools",
+      "Lead Software/Systems Engineers on assigned projects, providing direction on technical/design and development process"
+    ],
+    "Required Skills": [
+      "Minimum 5 years Software Engineering experience",
+      "Engineering Degree in either of the following disciplines: Engineering, Computer Science or similar",
+      "Experience with hands-on software development in C++",
+      "Proficiency in Linux and experience with Linux-based development environments",
+      "Australian Citizenship essential",
+      "Defence industry experience (desirable)"
+    ]
+  },
+  {
+    "Title": "Junior Appian Developer - Melbourne or Sydney",
+    "Advertiser": "Deloitte",
+    "Work Type": "Part time",
+    "Cleaned Description": "Seeking a motivated Junior Appian Developer to join the Deloitte Technology and Transformation team. Key responsibilities include developing and maintaining applications using the Appian platform, collaborating with teams, conducting quality assurance, creating documentation, troubleshooting issues, and continuous improvement.",
+    "Key Responsibilities": [
+      "Develop and Maintain Applications",
+      "Collaborate with Teams",
+      "Quality Assurance",
+      "Documentation",
+      "Troubleshoot Issues",
+      "Continuous Improvement"
+    ],
+    "Required Skills": [
+      "Basic understanding of Appian tool",
+      "Knowledge of programming languages such as Java, JavaScript, or Python",
+      "Familiarity with relational databases and SQL",
+      "Understanding of user interface and user experience design principles",
+      "Excellent verbal and written communication abilities"
+    ],
+    "Career Growth Opportunities": [
+      "Skill Development: Gain expertise in Appian, a leading low-code automation platform",
+      "Role Progression: Potential to advance to roles like Senior Appian Developer, Appian Architect, or Appian Lead",
+      "Leadership: Opportunity to lead complex Technology transformation projects",
+      "Specialisation: Option to specialise in areas such as BPM (Business Process Management), RPA (Robotic Process Automation), or AI integrations within Appian"
+    ]
+  },
+  {
+    "Title": "Graduate developer",
+    "Advertiser": "Sagecool",
+    "Work Type": "Full time",
+    "Cleaned Description": "Job posting for a Graduate Developer at Sagecool, an Australian start-up developing an online education platform. The candidate will collaborate with the lead developer and gain hands-on experience in technologies like Ruby, Rails, TypeScript, React, and more.",
+    "Key Responsibilities": [
+      "Collaborate closely with our lead developer",
+      "Contribute to shaping our technical direction",
+      "Gain hands-on experience with specified technologies",
+      "Work on building and maintaining core systems and applications",
+      "Participate in brainstorming sessions, problem-solving, and solution design",
+      "Play a key role in the early-stage growth of the company by contributing to both development and product vision"
+    ],
+    "Required Skills": [
+      "A proactive and self-driven attitude",
+      "Persistence and resilience when tackling challenges",
+      "Strong communication and collaboration skills",
+      "Coding knowledge or project experience in any language",
+      "Passion for startups and willingness to wear multiple hats as needed",
+      "A portfolio of work, such as GitHub, GitLab, personal projects, or open-source contributions, that showcases coding interest and experience"
+    ]
+  },
+  {
+    "Title": "Lead Software Engineer",
+    "Advertiser": "TensorWorks Pty Ltd",
+    "Work Type": "Full time",
+    "Cleaned Description": "Join TensorWorks as a Lead Developer, help push boundaries in Unreal Engine ecosystem. Collaborate with Epic Games and Amazon Web Services to develop foundational technology and cloud capabilities. Experience with C and C++ required.",
+    "Key Responsibilities": [
+      "Lead a team of developers at TensorWorks",
+      "Investigate, document, test Windows Unreal Engine workloads under Linux via Wine software translation layer",
+      "Develop patches for Wine to improve compatibility and performance",
+      "Understand project goals' alignment with the broader Unreal Engine ecosystem",
+      "Code primarily in C in Wine, delve into Unreal Engine (C++ and C#) and Linux kernel (C)",
+      "Collaborate with team members and external stakeholders to explore solutions"
+    ],
+    "Required Skills": [
+      "Past experience leading development teams",
+      "Strong C and C++ skills",
+      "Deep understanding of low-level operating system components and internals (Linux and/or Windows)",
+      "Comfortable developing and testing software on multiple platforms (Windows and Linux at least)",
+      "Effective text and verbal communicator",
+      "Ability to work autonomously, with the team, and with the client's team"
+    ],
+    "Unique Opportunities and Benefits Offered by the Role": [
+      "Work on bleeding edge technology",
+      "Focus on doing things correctly instead of just getting them done",
+      "Work alongside top companies within the industry",
+      "Work from Cairns, Brisbane, Melbourne, Adelaide or Wollongong",
+      "Get paid well to create foundational and open source technology",
+      "Excellent life/work balance",
+      "Company-wide 'Interest Project Jams'",
+      "5 weeks Annual Leave",
+      "Flexible working hours, 38 hours per week"
+    ],
+    "Salary": "Based on experience"
+  },
+  {
+    "Title": "Data Cleaning Assistant",
+    "Advertiser": "N/A",
+    "Work Type": "Full-time",
+    "Cleaned Description": "We are looking for a dedicated and detail-oriented Data Cleaning Assistant to join our team. The ideal candidate will have experience in data cleansing, normalization, and standardization.",
+    "Key Responsibilities": [
+      "Clean and prepare large datasets for analysis",
+      "Identify and resolve errors or inconsistencies in the data",
+      "Ensure high-quality data through rigorous quality control checks"
+    ],
+    "Required Skills": [
+      "Proficiency in using data cleaning tools such as Trifacta, Talend, Alteryx etc.",
+      "Strong knowledge of data normalization and standardization",
+      "Attention to detail and ability to work meticulously"
+    ]
+  }
+]

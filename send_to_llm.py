@@ -1,6 +1,7 @@
 from langchain_ollama import OllamaLLM
 from langchain.prompts import ChatPromptTemplate
 import json
+from concurrent.futures import ThreadPoolExecutor
 
 def clean_text_with_mistral(input_file, output_file):
     llm = OllamaLLM(model="mistral")
@@ -29,17 +30,20 @@ def clean_text_with_mistral(input_file, output_file):
     """
     prompt = ChatPromptTemplate.from_template(prompt_template)
 
-    # Process each job individually
-    cleaned_jobs = []
-    for job_text in job_sections:
-        if not job_text.strip():  # Skip empty sections
-            continue
+    # # Process each job individually
+    # cleaned_jobs = []
+    # for job_text in job_sections:
+    #     if not job_text.strip():  # Skip empty sections
+    #         continue
             
-        # Generate cleaned JSON for this job
-        chain = prompt | llm
-        cleaned = chain.invoke({"job_text": job_text})
-        cleaned_jobs.append(cleaned)
-        print(f"Processed job: {len(cleaned_jobs)}")
+    #     # Generate cleaned JSON for this job
+    #     chain = prompt | llm
+    #     cleaned = chain.invoke({"job_text": job_text})
+    #     cleaned_jobs.append(cleaned)
+    #     print(f"Processed job: {len(cleaned_jobs)}")
+
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        cleaned_jobs = list(executor.map(lambda job: llm.invoke(prompt.format(job_text=job)), job_sections))
 
     # Save all jobs to a JSON file
     with open(output_file, 'w', encoding='utf-8') as f:
