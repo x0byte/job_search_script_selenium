@@ -1,0 +1,130 @@
+[
+  {
+    "Title": "Graduate developer",
+    "Advertiser": "Sagecool",
+    "Work Type": "Full-time",
+    "Cleaned Description": "Job Ad: Graduate Developer at Sagecool. A startup company developing an Online Education platform. Contributing to technical direction, gaining hands-on experience with Ruby, Rails, TypeScript, and React, building and maintaining core systems, participating in brainstorming sessions, problem-solving, and solution design.",
+    "Key Responsibilities": [
+      "Collaborate closely with the lead developer",
+      "Gain hands-on experience with specified technologies",
+      "Build and maintain core systems and applications",
+      "Participate in brainstorming sessions, problem-solving, and solution design",
+      "Contribute to both development and overall product vision"
+    ],
+    "Required Skills": [
+      "Proactive and self-driven attitude",
+      "Persistence and resilience when tackling challenges",
+      "Strong communication and collaboration skills",
+      "Coding knowledge or project experience in any language",
+      "Passion for startups and willingness to wear multiple hats when needed",
+      "Portfolio of work that showcases interest and experience in coding"
+    ]
+  },
+  {
+    "Title": "Software Engineer",
+    "Advertiser": "BPC Technology",
+    "Work Type": "Full time",
+    "Cleaned Description": "We are seeking a skilled Software Engineer to design, develop, and maintain software solutions for our e-commerce platform and internal systems.",
+    "Key Responsibilities": [
+      "Collaborate with project stakeholders to define software requirements and provide technical recommendations.",
+      "Design, develop, and implement software modules and systems to meet project specifications.",
+      "Conduct code testing, debugging, and performance optimization to ensure reliable and efficient software.",
+      "Provide ongoing maintenance, updates, and improvements for existing software systems.",
+      "Create and maintain technical documentation for software designs and implementations.",
+      "Assist in the integration of third-party tools and APIs to enhance system functionality.",
+      "Provide technical support and troubleshooting for internal and external users.",
+      "Work closely with hardware teams to ensure seamless system integration."
+    ],
+    "Required Skills": [
+      "Bachelor’s degree in Computer Science, Software Engineering, or related field.",
+      "Proven experience as a Software Engineer, preferably in e-commerce or IT service industries.",
+      "Proficiency in programming languages such as Java, Python, or C#.",
+      "Strong knowledge of web development frameworks, databases, and APIs.",
+      "Familiarity with testing and debugging tools.",
+      "Excellent problem-solving skills and attention to detail.",
+      "Ability to work collaboratively in a team environment and communicate technical concepts effectively."
+    ],
+    "Preferred Skills": [
+      "Experience with CRM, ERP, or other enterprise-level software systems.",
+      "Knowledge of cloud computing platforms (e.g., AWS, Azure).",
+      "Understanding of front-end technologies such as HTML, CSS, and JavaScript.",
+      "Experience with version control systems (e.g., Git)"
+    ],
+    "Benefits": [
+      "Competitive salary package.",
+      "Opportunities for professional growth and development.",
+      "A collaborative and innovative work environment.",
+      "Employee discounts on products and services."
+    ]
+  },
+  {
+    "Title": "Software Developer",
+    "Advertiser": "Verra Mobility",
+    "Work Type": "Full time",
+    "Cleaned Description": "Verra Mobility is looking for a full-time Software Developer to work on its global flagship road safety software. The role includes designing, developing, and testing software components using React, Node.js or Java, AWS Lambda, and troubleshooting issues. Experience with Agile/Scrum practices and proficiency in Jira or Azure DevOps is required.",
+    "Key Responsibilities": [
+      "Software Development",
+      "Troubleshooting and Issue Resolution",
+      "Adherence to Secure Coding Practices",
+      "Collaborative Development",
+      "Continuous Improvement",
+      "Alignment with Architectural Design"
+    ],
+    "Required Skills": [
+      "Expertise in React, Node.js or Java, and AWS technologies, specifically AWS Lambda functions",
+      "Proficiency in Jira or Azure DevOps",
+      "Solid background in Agile/Scrum practices",
+      "Problem-solving skills",
+      "Attention to detail",
+      "Effective communication",
+      "Adaptability",
+      "Collaborative mindset"
+    ]
+  },
+  {
+    "Title": "Software Engineer",
+    "Advertiser": "LAGRANGE.AI PTY LTD",
+    "Work Type": "Full time",
+    "Cleaned Description": "A technology company is seeking a passionate Software Engineer to develop advanced software solutions for their AI-driven supply chain platform.",
+    "Key Responsibilities": [
+      "Product Development: Design, develop, and enhance features of our AI-driven supply chain platform.",
+      "Collaboration: Work with product managers and data scientists to understand user requirements and translate them into robust software solutions.",
+      "Code Quality: Conduct code reviews and implement best practices for maintainable and efficient code.",
+      "Documentation: Create and maintain documentation for software architecture, APIs, and user interfaces.",
+      "Troubleshooting: Identify and resolve software bugs and performance bottlenecks.",
+      "Continuous Improvement: Stay updated on industry trends and emerging technologies to enhance our platform's capabilities.",
+      "Agile Methodologies: Participate in Agile ceremonies and contribute to the iterative development process."
+    ],
+    "Required Skills": [
+      "Education: Bachelor Degree or Advanced Diploma or Diploma in related field OR Australian Experience: At least 3 + years of Australian Experience OR Overseas Experience: At least 3+ years of Overseas Experience",
+      "Specialist: Software Engineer",
+      "Work Rights: Australian Citizen or Permanent Resident or Full Work Rights Holder"
+    ],
+    "How to Apply": "Please submit your resume, a cover letter detailing your technical leadership experience, and any relevant portfolio materials to info@lagrange.ai."
+  },
+  {
+    "Title": "Software Engineer",
+    "Advertiser (company name)": "Mills Oakley",
+    "Work Type": "Full time",
+    "Cleaned Description": "A leading national law firm is seeking a skilled Software Engineer with expertise in .NET, Python, JavaScript, Azure Cloud Services, SharePoint Framework, and SQL Databases. The engineer will be responsible for developing and maintaining innovative software applications.",
+    "Key Responsibilities (bullet points)": [
+      "Developing and maintaining software applications",
+      "Proficiency in object-oriented programming",
+      "Experience with Azure Cloud Services",
+      "SharePoint Framework development",
+      "API & JSON design and consumption",
+      "Version control using Git"
+    ],
+    "Required Skills (bullet points)": [
+      "Strong experience in .NET, Python, JavaScript",
+      "Proficiency in OWAPS Top 10 and design patterns",
+      "Experience with Azure Cloud Services",
+      "SharePoint Framework development experience",
+      "API & JSON experience for data interchange",
+      "Unit testing frameworks and tools experience",
+      "Exceptional customer service skills",
+      "Strong technical, analytical, and problem-solving skills",
+      "Preferred qualifications: Cloud certifications, frontend frameworks, DevOps & CI/CD, strong communication skills, commitment to continuous learning"
+    ]
+  }
+]
